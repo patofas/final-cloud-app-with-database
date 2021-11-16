@@ -1,0 +1,4 @@
+apps:
+- name: onlinecourse-patofas
+  random-route: true
+  memory: 128M
